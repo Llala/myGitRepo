@@ -1,0 +1,3 @@
+[submodule "subMyGitRepo"]
+	path = subMyGitRepo
+	url = git@github.com:Llala/subMyGitRepo.git
